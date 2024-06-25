@@ -1,7 +1,4 @@
-package demo_exam.v1_302;
-
-import demo_exam.v2_305.n1.Events;
-import demo_exam.v2_305.n1.Person;
+package demo_exam.v1_302.n1;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;

@@ -1,4 +1,4 @@
-package demo_exam.v1_302;
+package demo_exam.v1_302.n1;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
